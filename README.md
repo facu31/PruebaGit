@@ -10,7 +10,6 @@ Prueba1
 |   |           No se descarta que la arquitectura propuesta pueda evolucionar a Microservicios si los requerimientos de mantenibilidad así lo requieran.   |
 
 
-| Primer encabezado | Segundo encabezado |
 | ------------- | ------------- |
 | Contenido de la celda  | Contenido de la celda  |
 | Contenido de la celda  | Contenido de la celda  |
