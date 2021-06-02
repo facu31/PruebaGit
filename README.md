@@ -10,6 +10,9 @@ Prueba1
 |   |           No se descarta que la arquitectura propuesta pueda evolucionar a Microservicios si los requerimientos de mantenibilidad así lo requieran.   |
 
 
+
+
+| |  |
 | ------------- | ------------- |
-| Contenido de la celda  | Contenido de la celda  |
-| Contenido de la celda  | Contenido de la celda  |
+| **Monolito modular**  | Contenido de la celda  |
+| **Microservicos**   | Contenido de la celda  |
